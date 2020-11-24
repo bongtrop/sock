@@ -1,4 +1,6 @@
-# sock
+>  Please note that this branch is just temporary module of [sock](https://github.com/hellman/sock) module. If the pull request is merged, this branch will be removed.
+
+# sock-websocket
 
 Small script to simplify network communication.
 
@@ -11,7 +13,7 @@ Current development only supports python 3. Old python 2 version is available at
 ## Installation
 
 ```bash
-$ pip3 install sock
+$ pip3 install sock-websocket
 ```
 
 For development or building from this repository, [poetry](https://python-poetry.org/) is needed.

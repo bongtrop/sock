@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "sock"
-version = "0.5.0"
+name = "sock-websocket"
+version = "0.6.0"
 description = "Small script to simplify network communication"
-authors = ["hellman"]
+authors = ["hellman","bongtrop"]
 license = "MIT"
 readme = "README.md"
 keywords = ["socket", "telnet", "network"]
@@ -16,7 +16,7 @@ classifiers = [
 include = ["CHANGELOG.md"]
 
 [tool.poetry.urls]
-homepage = "http://github.com/hellman/sock"
+homepage = "http://github.com/bongtrop/sock/tree/websocket"
 
 [tool.poetry.dependencies]
 python = "^3.4"

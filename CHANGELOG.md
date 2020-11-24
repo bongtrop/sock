@@ -1,3 +1,8 @@
+## 0.6.0 (Nov 24, 2020)
+
+  - add websocket support
+  - add pwnlib.tubes method style
+
 ## 0.5.0 (Sep 27, 2020)
 
   - swtich to python 3
