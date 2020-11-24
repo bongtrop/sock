@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "sock-websocket"
+name = "sock_websocket"
 version = "0.6.0"
 description = "Small script to simplify network communication"
-authors = ["hellman","bongtrop"]
+authors = ["hellman"]
 license = "MIT"
 readme = "README.md"
 keywords = ["socket", "telnet", "network"]
